@@ -1,0 +1,5 @@
+print("we have 7 notebooks and one cost 3 ")
+print("so we will calculate the resalt ")
+print(7*3)
+print(30-21)
+print("all we have left is 9 dollars")
